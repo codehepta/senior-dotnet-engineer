@@ -1,0 +1,4 @@
+interface:
+  display_name: "Senior .NET Engineer"
+  short_description: "Production-grade .NET architecture and delivery"
+  default_prompt: "Use $senior-dotnet-engineer to engineer this .NET change for production and verify its important risks."
