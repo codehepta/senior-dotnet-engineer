@@ -1,0 +1,39 @@
+{
+  "name": "senior-dotnet-engineer",
+  "version": "1.0.0",
+  "description": "Hands-on production engineering for advanced C# and modern .NET systems.",
+  "author": {
+    "name": "codehepta",
+    "url": "https://github.com/codehepta"
+  },
+  "homepage": "https://github.com/codehepta/senior-dotnet-engineer",
+  "repository": "https://github.com/codehepta/senior-dotnet-engineer",
+  "license": "MIT",
+  "keywords": [
+    "dotnet",
+    "csharp",
+    "aspnet-core",
+    "ef-core",
+    "architecture",
+    "performance",
+    "observability"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Senior .NET Engineer",
+    "shortDescription": "Production-grade C# and .NET engineering",
+    "longDescription": "Design, implement, review, and verify production .NET systems across advanced C#, ASP.NET Core, data access, distributed architecture, performance, security, resilience, observability, cloud delivery, and AI integration.",
+    "developerName": "codehepta",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Write",
+      "Review",
+      "Analyze"
+    ],
+    "defaultPrompt": [
+      "Implement this .NET change with production-grade tests and safeguards.",
+      "Find and measure the bottleneck in this C# or ASP.NET Core path.",
+      "Review this .NET architecture for reliability, security, and evolution."
+    ]
+  }
+}
